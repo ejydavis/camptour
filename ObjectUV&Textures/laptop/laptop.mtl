@@ -1,0 +1,46 @@
+# Blender MTL File: 'laptop newest.blend'
+# Material Count: 5
+
+newmtl None
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl None_Laptop-Top.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd /Users/jesseyang/Laptop-References/Laptop-Top.png
+
+newmtl None_Screen_Shot_2019-03-29_at_12.52.21_AM.png
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd /Users/jesseyang/Screen Shot 2019-03-29 at 12.52.21 AM.png
+
+newmtl None_laptop.jpg
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd /Users/Downloads/laptop.jpg
+
+newmtl None_laptop_front.jpeg
+Ns 0
+Ka 0.000000 0.000000 0.000000
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+map_Kd /Users/Downloads/laptop front.jpeg
