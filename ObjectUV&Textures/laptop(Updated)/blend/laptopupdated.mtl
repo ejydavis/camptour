@@ -1,0 +1,56 @@
+# Blender MTL File: 'laptop newest (1).blend'
+# Material Count: 5
+
+newmtl Material
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307499 0.307499 0.307499
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Downloads\laptop front.jpeg
+
+newmtl Material_Laptop-Top.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307499 0.307499 0.307499
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\ejyda\Laptop-References\Laptop-Top.png
+
+newmtl Material_NONE
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307499 0.307499 0.307499
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material_Screen_Shot_2019-03-29_at_12.52.21_AM.png
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307499 0.307499 0.307499
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\ejyda\Screen Shot 2019-03-29 at 12.52.21 AM.png
+
+newmtl Material_laptop.jpg
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.307499 0.307499 0.307499
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Downloads\laptop.jpg
